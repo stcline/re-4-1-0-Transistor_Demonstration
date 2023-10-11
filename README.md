@@ -20,3 +20,5 @@ The goal of this lab assignment... 🚀
 - main circuit with LED and control circuit with LED?
 
 ## 📚  Resources 
+
+https://www.youtube.com/watch?v=J4oO7PT_nzQ
