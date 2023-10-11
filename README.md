@@ -12,4 +12,11 @@ The goal of this lab assignment... 🚀
 
 ## 📝 Next steps
 
+- Make an observations.md file
+- Find data sheet
+- calculate current gain
+- draw the circuit
+- test it manually with a button first
+- main circuit with LED and control circuit with LED?
+
 ## 📚  Resources 
