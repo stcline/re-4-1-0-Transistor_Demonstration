@@ -1,7 +1,5 @@
 # :robot: Transistor Demonstration 
 
-[toc]
-
 ## 🤓 Overview and learning outcomes 
 
 The goal of this lab assignment is to automate the switching of a higher voltage circuit from a lower voltage circuit.  This is one of the primary uses of a transistor.  By the end of this assignment you will be able to explain how a transistor switch is activated as well as design a circuit using a sensor of your choosing to activate that switch.  While we will ultimately just turn on a 12V LED strip, this could be applied to many different applications in the future. 🚀
@@ -48,12 +46,12 @@ NOTE: V<sub>1</sub>, V<sub>2</sub>, V<sub>OUT</sub> and the 12V LEDs are immutab
 5. Measure the current of your actuator circuit when it is activated and compare it to your answer in step 3.  Determine if you were correct in your prediction and why you might have been wrong.
 6. Create a full list of all components used in your design and include a section in the description for this.
 7. Proofread your observations for content, grammar, punctuation and usage.  Include all requirements listed here. Try to show your math inside the `.md` file by using LaTeX expressions.  More details on how to do this may be found [here](https://support.typora.io/Math/)
-8. Be prepared to demonstrate what you learned to the class.
+8. Explain how this could be applied outside of this demonstration.
+9. Be prepared to demonstrate what you learned to the class.
 
 ## 📚  Resources 
 
 - [All About Circuits Textbook section on semiconductors](https://www.allaboutcircuits.com/textbook/semiconductors/)
 - [Transistors Explained video from The Engineering Mindset](https://www.youtube.com/watch?v=J4oO7PT_nzQ)
-- How to read a datasheet
+- [How to read a datasheet](https://www.sparkfun.com/tutorials/223)
 - [LaTeX Expression Math in Markdown](https://support.typora.io/Math/)
-- Sample video demonstration
